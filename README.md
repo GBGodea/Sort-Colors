@@ -1,3 +1,3 @@
-**Fast solution**
-![image](https://github.com/GBGodea/Sort-Colors/assets/125504532/3bddd1ea-cdb9-42f4-9046-127aa93d70f4)
-![image](https://github.com/GBGodea/Sort-Colors/assets/125504532/4ee4ca20-cdb8-4348-a0a0-e56d4601b214)
+**Average Solution**
+![image](https://github.com/GBGodea/Sort-Colors/assets/125504532/2695db68-4e3a-426d-997b-8564277e79de)
+![image](https://github.com/GBGodea/Sort-Colors/assets/125504532/bbdfba32-bb82-4853-8af5-b8e7fb347b56)
